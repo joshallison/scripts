@@ -5,3 +5,5 @@ alt - down :      yabai -m window --focus south
 alt - f :         yabai -m window --toggle zoom-parent
 shift + alt - h : yabai -m window --swap north
 shift + alt - a : yabai -m window --resize left:-20:0
+
+cmd - return : /System/Applications/Utilities/Terminal.app 
